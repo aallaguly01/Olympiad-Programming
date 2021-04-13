@@ -1,7 +1,7 @@
 # Olympiad-Programming
-Hi there!
+<samp>Hi there!</samp>
 
-This repository for my olympiad programming sources.
+<samp>This repository for my olympiad programming task sources.</samp>
 
 `My Profile`
 - [*codeforces*](https://codeforces.com/profile/aallaguly01)
