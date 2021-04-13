@@ -31,7 +31,7 @@ public class AlmostPrime {
                 }
             if (p == 2)
                 k++;
-    }
+        }
 
         System.out.println(k);
 
